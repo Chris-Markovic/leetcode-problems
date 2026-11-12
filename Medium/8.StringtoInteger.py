@@ -1,5 +1,3 @@
-#My solution O(n) where n is the length of the input string
-
 class Solution:
     def myAtoi(self, s: str) -> int:
         string = list(s)
@@ -18,8 +16,8 @@ class Solution:
 
         #Step3
         final_number = ""
-        numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
-        while i < len(string) and string[i] in numbers:
+        values = {'0':0, '1':1, '2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9}
+        while i < len(string) and string[i] in values:
             final_number += string[i]
             i += 1
 
@@ -28,7 +26,7 @@ class Solution:
 
         n = 0
         for number in final_number:
-            n = n * 10 + int(number)
+            n = n * 10 + values[number]
         if sign == "-":
             n = -n
 
@@ -38,7 +36,3 @@ class Solution:
             return 2**31 - 1
         else:
             return n
-        
-    
-solution = Solution()
-print(solution.myAtoi("1337c0d3"))
