@@ -3,6 +3,7 @@ My solution O(m*n)
 
 With * - table approach: create a 2D table with all False, 
 then checks: does dp[i][j] = do the first i characters of s match the first j characters of p?
+I used the help of AI to come up with the approach and coded it.
 """
 
 class Solution:
