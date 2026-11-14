@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 2    | 6      | 1    | 9     |
+| 2    | 6      | 2    | 10    |
 
 ## Solutions
 
@@ -35,5 +35,6 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Python](Medium/7.ReverseInteger.py) | O(n) |
 | 8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Python](Medium/8.StringtoInteger.py) | O(n) |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](Easy/9.PalindromeNumber.py) | O(n) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Python](Hard/10.RegularExpressionMatching.py) | O(m · n) |
 
-*n = length of the input (for numbers, the number of digits)*
+*n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
