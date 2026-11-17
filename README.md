@@ -38,6 +38,6 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Python](Hard/10.RegularExpressionMatching.py) | O(m · n) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](Medium/11.ContainerWithMostWater.py) | O(n) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](Medium/12.IntegertoRoman.py) | O(n) |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](Medium/13.RomantoInteger.py) | O(n) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](Easy/13.RomantoInteger.py) | O(n) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
