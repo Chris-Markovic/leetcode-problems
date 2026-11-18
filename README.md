@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 3    | 8      | 2    | 13    |
+| 4    | 8      | 2    | 14    |
 
 ## Solutions
 
@@ -39,5 +39,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](Medium/11.ContainerWithMostWater.py) | O(n) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](Medium/12.IntegertoRoman.py) | O(n) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](Easy/13.RomantoInteger.py) | O(n) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](Easy/14.LongestCommonPrefix.py) | O(m · n) |
+
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
