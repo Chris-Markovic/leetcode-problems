@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 4    | 9      | 2    | 15    |
+| 4    | 10      | 2    | 16    |
 
 ## Solutions
 
@@ -40,7 +40,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](Medium/12.IntegertoRoman.py) | O(n) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](Easy/13.RomantoInteger.py) | O(n) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](Easy/14.LongestCommonPrefix.py) | O(m · n) |
-| 15 | [3sum](https://leetcode.com/problems/3sum/) | Medium | [Python](Easy/15.3Sum.py) | O(n**2) |
-
+| 15 | [3sum](https://leetcode.com/problems/3sum/) | Medium | [Python](Medium/15.3Sum.py) | O(n**2) |
+| 16 | [3SumClosest](https://leetcode.com/problems/3sum-closest/) | Medium | [Python](Medium/16.3SumClosest.py) | O(n**2) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
