@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 4    | 10      | 2    | 16    |
+| 4    | 11      | 2    | 17    |
 
 ## Solutions
 
@@ -41,6 +41,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](Easy/13.RomantoInteger.py) | O(n) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Python](Easy/14.LongestCommonPrefix.py) | O(m · n) |
 | 15 | [3sum](https://leetcode.com/problems/3sum/) | Medium | [Python](Medium/15.3Sum.py) | O(n**2) |
-| 16 | [3SumClosest](https://leetcode.com/problems/3sum-closest/) | Medium | [Python](Medium/16.3SumClosest.py) | O(n**2) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Python](Medium/16.3SumClosest.py) | O(n**2) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Python](Medium/17.LetterCombinationsofaPhoneNumber.py) | O(4**n * n) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
