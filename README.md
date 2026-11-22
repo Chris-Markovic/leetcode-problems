@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 4    | 11      | 2    | 17    |
+| 4    | 12      | 2    | 18    |
 
 ## Solutions
 
@@ -43,5 +43,6 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 15 | [3sum](https://leetcode.com/problems/3sum/) | Medium | [Python](Medium/15.3Sum.py) | O(n**2) |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Python](Medium/16.3SumClosest.py) | O(n**2) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Python](Medium/17.LetterCombinationsofaPhoneNumber.py) | O(4**n * n) |
+| 18 | [4sum](https://leetcode.com/problems/4sum/) | Medium | [Python](Medium/15.4Sum.py) | O(n**3) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
