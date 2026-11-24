@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 5    | 13      | 2    | 20    |
+| 6    | 13      | 2    | 21    |
 
 ## Solutions
 
@@ -46,5 +46,6 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 18 | [4sum](https://leetcode.com/problems/4sum/) | Medium | [Python](Medium/18.4Sum.py) | O(n**3) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Python](Medium/19.RemoveNthNodeFromEndofList.py) | O(n) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](Easy/20.ValidParentheses.py) | O(n) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Python](Easy/21.MergeTwoSortedLists.py) | O(m+n) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
