@@ -47,5 +47,6 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Python](Medium/19.RemoveNthNodeFromEndofList.py) | O(n) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](Easy/20.ValidParentheses.py) | O(n) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Python](Easy/21.MergeTwoSortedLists.py) | O(m+n) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Python](Medium/22.GenerateParentheses.py) | O(4**n / sqrt(n)) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
