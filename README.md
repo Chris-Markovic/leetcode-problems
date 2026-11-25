@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 6    | 13      | 2    | 21    |
+| 6    | 14      | 2    | 22    |
 
 ## Solutions
 
