@@ -20,7 +20,7 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 
 | Easy | Medium | Hard | Total |
 |:----:|:------:|:----:|:-----:|
-| 6    | 15      | 3    | 24    |
+| 6    | 15      | 4    | 25    |
 
 ## Solutions
 
@@ -50,5 +50,6 @@ Each file is named after the problem number and title, for example Easy/1.TwoSum
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Python](Medium/22.GenerateParentheses.py) | O(4**n / sqrt(n)) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](Hard/23.MergekSortedLists.py) | O(m*n) |
 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [Python](Medium/24.SwapNodesInPairs.py) | O(n) |
+| 25 | [Revserse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | [Python](Hard/25.ReverseNodesInK-Group.py) | O(n) |
 
 *n = length of the input (for numbers, the number of digits), m and n = lengths of the two inputs*
